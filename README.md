@@ -1,2 +1,14 @@
 # bwinrank-archive
-HTML page archive and documentation
+
+静态内容发布记录
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 内容目录
+
+- `*.html`：静态页面文件
+- `README.md`：仓库说明与维护备注
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
